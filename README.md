@@ -1,4 +1,4 @@
-# Ed25519 Signature 2020
+# Linked Data Signature
 Ed25519 Signature Suite 2020 for the Linked Data Proof specification
 
 
